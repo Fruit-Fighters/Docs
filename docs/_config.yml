@@ -3,7 +3,7 @@ title: "Fruit Fighters Docs"
 author: "ISB Fruit Fighters"
 navbar-links:
   Github Profile: "https://github.com/Fruit-Fighters"
-  Rules (futurelink): "/gameRules.md"
+  Rules: "/gameRules.md"
 avatar: "/assets/img/icon.png"
 
 

@@ -1,0 +1,7 @@
+# Contributing
+
+## Issues
+
+## Requests
+
+## Warranty
